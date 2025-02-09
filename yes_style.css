@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url("https://textur.gas-kvas.com/uploads/posts/2024-10/textur-gas-kvas-com-1lou-p-tekstura-fon-serdechki-1.jpg");
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.box{
+    background-color: #eec5c5;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.header_text {
+    font-size: 3em;
+    color: #a00000;
+}
+
+.gif_container img {
+    width: 100%; 
+    max-width: 500px; 
+    height: auto; 
+}

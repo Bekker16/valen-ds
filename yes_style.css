@@ -4,7 +4,8 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: url("https://textur.gas-kvas.com/uploads/posts/2024-10/textur-gas-kvas-com-1lou-p-tekstura-fon-serdechki-1.jpg");
+    background-image: url("https://i.pinimg.com/originals/94/77/b8/9477b89d53b4105f313d4897ae94fccb.jpg");
+    background-size:cover;
     font-family: 'Arial', sans-serif;
 }
 
@@ -13,14 +14,14 @@ body {
 }
 
 .box{
-    background-color: #eec5c5;
+    background-color: #f35ceb;
     border-radius: 20px;
     padding: 20px;
 }
 
 .header_text {
     font-size: 3em;
-    color: #a00000;
+    color: #ffc5fb;
 }
 
 .gif_container img {
